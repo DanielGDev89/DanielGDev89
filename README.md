@@ -1,55 +1,56 @@
-### ¡Saludos visitante! 👋
+## ¡Saludos visitante! 👋
 
-Soy Daniel un emprendedor curioso, técnico por partida doble y programador junior en Python. Mi deseo es poder incursionar en el mundo de las Ciencias de Datos 📊(y vivir en la patagonia argentina ⛰️🥰). Soy un apasionado por la tecnología y el aprendizaje continuo. Mi formación académica abarca diversas disciplinas que han enriquecido mi conjunto de habilidades. Actualmente me encuentro formandome con tecnologías como: 
+Soy Daniel, un emprendedor curioso, técnico por partida doble y en plena transición hacia el mundo IT.  
+Actualmente me estoy enfocando en **Testing Manual, Datos, Análisis Funcional y Programación en Python**, con el objetivo de abrirme camino en la industria IT y seguir creciendo de forma constante 🚀.  
 
-* 🐍 Python
-* 🗃️ MySQL
-* 🖥️ Javascript
-* 🖌️ CSS
-* 🧰 entre otras.  
+Me apasiona la tecnología, el aprendizaje continuo y la posibilidad de aportar valor desde distintas perspectivas: tanto en el **rol de QA Tester/Analista Funcional** como en el de **desarrollador junior**.  
 
-## Educación
-* Licenciatura en Sistemas 💻
+---
 
+## 🎓 Educación
+* **Licenciatura en Sistemas** 💻  
   Habilidades fundamentales en programación y matemáticas.
-  
-* Tecnicatura en Equipos Viales 👷
 
+* **Tecnicatura en Equipos Viales** 👷  
   Habilidades técnicas esenciales para diagnóstico y resolución de problemas.
-  
-* Ingeniería Forestal 🌳
 
+* **Ingeniería Forestal** 🌳  
   Conocimientos en ciencias exactas, matemáticas, estadísticas, física y química.
-  
-## Experiencia Actual
-* Desarrollo en Ciencias de Datos
 
-  Formación continua en programación aplicada a las ciencias de datos.
-* Habilidades y Conocimientos
+---
 
-  _Lenguajes de Programación:_
+## 🛠️ Habilidades y Conocimientos
+- **Lenguajes de Programación:** Python 🐍 | Javascript 🖥️  
+- **Tecnologías y Herramientas:** Git & GitHub 🐙 | SQL 🗃️ | CSS 🖌️ | Jira 📑 | Pandas 🐼 
+- **Testing y QA:** Diseño y ejecución de casos de prueba | Reporte de bugs | Documentación de pruebas | Pruebas funcionales 🧪  
+- **Áreas de Enfoque:**  
+  * Testing Manual y Funcional 🔍  
+  * Programación en Python 💻
+  * Datos 👨‍💻📈
+  * Resolución de Problemas Técnicos 🛠️  
 
-    * Python 🐍
-    * Javascript 🖥️
-* Tecnologías y Herramientas:
+---
 
-  * Pandas 🐼
-  * Numpy 🔡
-  * Google Collab 📓
-  * Git & GitHub 🐙
-  * SQL 🗃️
-  * CSS 🖌️
+## 📂 Repositorios Destacados
+- [OrangeHRM - Pruebas QA](https://github.com/DanielGDev89/OrangeHRM-QA) 🧪  
+  Documentación y ejecución de pruebas en OrangeHRM. Proyecto orientado a mostrar disciplina en Testing manual.
 
-* Áreas de Especialización:
+- [Python CRUD](https://github.com/DanielGDev89/Python-CRUD) 🐍  
+  Ejercicio práctico de operaciones CRUD en Python, aplicando bases de datos y lógica de programación.
 
-  * Desarrollo de Software 💻
-  * Ciencias de Datos 📊
-  * Resolución de Problemas Técnicos 🛠️
-  
-## Objetivo Profesional
-- Dedico mi tiempo a seguir creciendo profesionalmente, participando en cursos y programas orientados a la programación aplicada a las ciencias de datos. Mi objetivo es aprovechar al máximo mis habilidades técnicas y analíticas para contribuir al éxito de proyectos desafiantes.
+*(pronto más proyectos… 😉)*
 
-### Conecta Conmigo
-- Estoy entusiasmado por las oportunidades de colaboración y crecimiento que esta plataforma ofrece. ¡Conéctate conmigo para explorar cómo puedo aportar valor a tu equipo y organización!
+---
 
-📫 ¡Encuéntrame en [LinkedIn](https://www.linkedin.com/in/danielgaraydev/) para seguir mi trayectoria!
+## 🎯 Objetivo Profesional
+Mi meta es **insertarme en la industria IT** aportando tanto mi perfil técnico como mi capacidad de análisis.  
+A futuro, busco especializarme en **QA / Testing** o en **Análisis Funcional**, sin dejar de lado el desarrollo como base técnica.  
+
+---
+
+## 🤝 Conecta Conmigo
+Estoy abierto a colaborar en proyectos, aprender en equipo y sumar valor donde pueda aportar.  
+📫 [LinkedIn](https://www.linkedin.com/in/danielgaraydev/)  
+
+---
+
