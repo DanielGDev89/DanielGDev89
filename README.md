@@ -51,6 +51,7 @@ A futuro, busco especializarme en **QA / Testing** o en **Análisis Funcional**,
 ## 🤝 Conecta Conmigo
 Estoy abierto a colaborar en proyectos, aprender en equipo y sumar valor donde pueda aportar.  
 📫 [LinkedIn](https://www.linkedin.com/in/danielgaraydev/)  
+📧 danielgaray.dev@gmail.com
 
 ---
 
