@@ -32,7 +32,7 @@ Me apasiona la tecnología, el aprendizaje continuo y la posibilidad de aportar 
 ---
 
 ## 📂 Repositorios Destacados
-- [OrangeHRM - Pruebas QA](https://github.com/DanielGDev89/OrangeHRM-QA) 🧪  
+- [OrangeHRM - Pruebas QA](https://github.com/DanielGDev89/OrangeHRM---Proyecto-Testing-Manual) 🧪  
   Documentación y ejecución de pruebas en OrangeHRM. Proyecto orientado a mostrar disciplina en Testing manual.
 
 - [Python CRUD](https://github.com/DanielGDev89/Python-CRUD) 🐍  
