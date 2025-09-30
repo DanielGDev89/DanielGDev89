@@ -1,21 +1,23 @@
 ## ¡Saludos visitante! 👋
 
-Soy Daniel, un emprendedor curioso, técnico por partida doble y en plena transición hacia el mundo IT.  
-Actualmente me estoy enfocando en **Testing Manual, Datos, Análisis Funcional y Programación en Python**, con el objetivo de abrirme camino en la industria IT y seguir creciendo de forma constante 🚀.  
-
-Me apasiona la tecnología, el aprendizaje continuo y la posibilidad de aportar valor desde distintas perspectivas: tanto en el **rol de QA Tester/Analista Funcional** como en el de **desarrollador junior**.  
+Soy Daniel, técnico por partida doble y con experiencia en distintos campos, hoy en plena transición hacia el mundo IT.  
+Me encuentro enfocado en aprender y practicar **Testing Manual, Análisis Funcional y Programación en Python**. Además me apasiona el mundo de los **Datos y Big Data.**  
+Estoy construyendo un portafolio con prácticas y proyectos que demuestran mi capacidad de documentar, analizar y desarrollar soluciones, con la meta de abrirme paso en la industria IT y seguir especializándome.
 
 ---
 
 ## 🎓 Educación
-* **Licenciatura en Sistemas** 💻  
-  Habilidades fundamentales en programación y matemáticas.
+* **Licenciatura en Sistemas** 💻   ![status](https://img.shields.io/badge/Incompleto-orange)
+  
+  *Habilidades fundamentales en programación y matemáticas.*
 
-* **Tecnicatura en Equipos Viales** 👷  
-  Habilidades técnicas esenciales para diagnóstico y resolución de problemas.
+* **Tecnicatura en Equipos Viales** 👷  ![status](https://img.shields.io/badge/Graduado-blue)
+  
+  *Habilidades técnicas esenciales para diagnóstico y resolución de problemas.*
 
-* **Ingeniería Forestal** 🌳  
-  Conocimientos en ciencias exactas, matemáticas, estadísticas, física y química.
+* **Ingeniería Forestal** 🌳   ![status](https://img.shields.io/badge/Incompleto-orange)
+  
+  *Conocimientos en ciencias exactas, matemáticas, estadísticas y física.*
 
 ---
 
@@ -26,7 +28,7 @@ Me apasiona la tecnología, el aprendizaje continuo y la posibilidad de aportar 
 - **Áreas de Enfoque:**  
   * Testing Manual y Funcional 🔍  
   * Programación en Python 💻
-  * Datos 👨‍💻📈
+  * Datos 👨‍💻📊
   * Resolución de Problemas Técnicos 🛠️  
 
 ---
@@ -37,6 +39,12 @@ Me apasiona la tecnología, el aprendizaje continuo y la posibilidad de aportar 
 
 - [Python CRUD](https://github.com/DanielGDev89/Python-CRUD) 🐍  
   Ejercicio práctico de operaciones CRUD en Python, aplicando bases de datos y lógica de programación.
+
+- [Cifrador de Espías](https://github.com/DanielGDev89/Cifrador_Mensajes) 🐍  
+  Practica de algoritmos de cifrado básicos y manejo de archivos con CSV.
+
+- [Parabank Demo - Pruebas Manuales](https://github.com/DanielGDev89/Parabank-Demo) 🧪  
+  Documentación y ejecución de pruebas funcionales. Proyecto de practica en Testing manual.
 
 *(pronto más proyectos… 😉)*
 
