@@ -37,7 +37,7 @@ Estoy construyendo un portafolio con prácticas y proyectos que demuestran mi ca
 - [OrangeHRM - Pruebas QA](https://github.com/DanielGDev89/OrangeHRM---Proyecto-Testing-Manual) 🧪  
   Documentación y ejecución de pruebas en OrangeHRM. Proyecto orientado a mostrar disciplina en Testing manual.
 
-- [Python CRUD](https://github.com/DanielGDev89/Python-CRUD) 🐍  
+- [Python CRUD](https://github.com/DanielGDev89/Proyecto-PrimerCRUD) 🐍  
   Ejercicio práctico de operaciones CRUD en Python, aplicando bases de datos y lógica de programación.
 
 - [Cifrador de Espías](https://github.com/DanielGDev89/Cifrador_Mensajes) 🐍  
